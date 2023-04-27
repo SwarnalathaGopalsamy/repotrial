@@ -4,3 +4,5 @@
 `code`
 ***
 >This is a trial file
+
+| heading1 | heading2 | heading3 |
